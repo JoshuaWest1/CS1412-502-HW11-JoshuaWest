@@ -1,0 +1,15 @@
+SR-71_Blackbird
+3500
+16.95	32.74	M
+high-speed_Strategic_Reconnaissance
+
+EF-111A_Raven
+2280
+19.21	23.16	M
+Electronic_Warfare
+
+Concorde
+2140
+25.61	62.2	C
+Supersonic_Airliner 
+
